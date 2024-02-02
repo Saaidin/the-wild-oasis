@@ -1,6 +1,6 @@
 # The Wild Oasis
 
-Main project in Jonas Schmedtmann's Ultimate React Course.
+Main project in Jonas Schmedtmann's Ultimate React Course. Built with React Query and Supabase.
 
 <!-- This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
